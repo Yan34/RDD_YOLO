@@ -1,0 +1,7 @@
+/datasets/
+/runs/
+/models/
+*.pt
+!/models/RDD.pt
+!/runs/segment/train2/weights/best.pt
+!/runs/segment/train4/results.csv
