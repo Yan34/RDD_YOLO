@@ -1,0 +1,6 @@
+*
+!.gitignore
+!/optim/
+!/optim/*
+!/optim/*/*
+!/optim/*/*/*

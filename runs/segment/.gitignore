@@ -1,0 +1,9 @@
+*
+!.gitignore
+!/train20
+!/train20/*
+!/train20/weights/best.pt
+!/train22
+!/train22/*
+!/train22/weights/best.pt
+*.zip

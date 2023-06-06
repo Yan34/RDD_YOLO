@@ -1,0 +1,13 @@
+train: D:\University\RDD_YOLO\datasets\optim\train
+val: D:\University\RDD_YOLO\datasets\optim\valid
+test: D:\University\RDD_YOLO\datasets\optim\test
+
+nc: 2
+names: ['crack', 'pothole']
+
+roboflow:
+  workspace: project
+  project: road-damage-detector-1200-optimized
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project/road-damage-detector-1200-optimized/dataset/2

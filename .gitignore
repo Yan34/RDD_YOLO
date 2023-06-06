@@ -1,11 +1,6 @@
-/datasets/
-/runs/
 /models/
-*.pt
 !/models/RDD.pt
-!/runs/segment/train2/weights/
-!/runs/segment/train2/results.csv
-!/runs/segment/train4/weights/
-!/runs/segment/train4/results.csv
-!/runs/segment/train9/weights/
-!/runs/segment/train9/results.csv
+*.pt
+*.zip
+/__pycache__/
+/inference/
